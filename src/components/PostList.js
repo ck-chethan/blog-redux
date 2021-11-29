@@ -4,7 +4,7 @@ class PostList extends Component {
     render() {
         return (
             <div>
-                PostList88888888888888888888888888
+                PostList
             </div>
         )
     }
